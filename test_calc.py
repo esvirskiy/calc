@@ -1,4 +1,4 @@
-import calculator
+import calc
 
 
 class TestCalculator:
